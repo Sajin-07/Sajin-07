@@ -28,6 +28,12 @@
 ![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E1E?logo=ngrok&logoColor=white)
 
 ---
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" width="80" alt="Blockchain">
+  <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" width="80" alt="Hyperledger">
+  <img src="https://www.self-sovereign-identity.io/wp-content/uploads/SSI_Icon_Blue-Circle-White-Symbol.png" width="80" alt="SSI">
+</div>
+
 ## 🚀 Featured Thesis: Blockchain-backed SSI: Empowering Travelers with a secure platform for digitalized travel
 information  
 
