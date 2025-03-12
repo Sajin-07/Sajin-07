@@ -29,20 +29,20 @@
 
 ---
 
+![Thesis](https://media.giphy.com/media/3o7TKzGPlzR9dY2XEk/giphy.gif)  
+
 ## 🚀 Featured Thesis: Blockchain-backed SSI: Empowering Travelers with a secure platform for digitalized travel
 information  
 
-**`Thesis Project | BRAC University`**  
+**`Thesis | BRAC University`**  
 *Advised by Prof. Md. Sadek Ferdous*  
 
 🔐 **Implementation Highlights**  
 - Built a Self-Sovereign Identity (SSI) system using **Hyperledger Indy/ACA-PY**  
 - Secured digital travel credentials (passports/visas) with decentralized storage  
 - Reduced verification time by 40% compared to traditional systems  
-- Tech Stack: ACA-PY, React, Hyperledger Indy, Hyperledger Fabric, REST APIs.
+- Tech Stack: ACA-PY, React, Hyperledger Indy, Hyperledger Fabric, REST APIs. 
 
-**Project Demo**  
-![Project Demo GIF](https://media.giphy.com/media/XlQvTjsKtC4ne/giphy.gif)  
 📌 *"Empowering travelers with privacy-first digital identities"*  
 
 ---
