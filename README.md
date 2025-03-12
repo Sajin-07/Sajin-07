@@ -39,8 +39,10 @@ information
 - Built a Self-Sovereign Identity (SSI) system using **Hyperledger Indy/ACA-PY**  
 - Secured digital travel credentials (passports/visas) with decentralized storage  
 - Reduced verification time by 40% compared to traditional systems  
-- Tech Stack: ACA-PY, React, Hyperledger Indy, Hyperledger Fabric, REST APIs. 
+- Tech Stack: ACA-PY, React, Hyperledger Indy, Hyperledger Fabric, REST APIs.
 
+**Project Demo**  
+![Project Demo GIF](https://media.giphy.com/media/XlQvTjsKtC4ne/giphy.gif)  
 📌 *"Empowering travelers with privacy-first digital identities"*  
 
 ---
@@ -57,4 +59,4 @@ BRAC University
 
 ---
 
-> "Innovation is where blockchain meets real-world problems." - Sifat Jahan Sajin
+> "Innovation is where blockchain meets real-world problems." 
