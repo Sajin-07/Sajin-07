@@ -28,9 +28,9 @@
 ![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E1E?logo=ngrok&logoColor=white)
 
 ---
-
-![Thesis](https://i.imgur.com/yourimage.gif)  
-
+![Thesis](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHl2NHN6a3R0eWJ3b3h5N2V5Y3V4YzV2bGp4Y2F4eGJxZ3R6OG1odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orieS4jfHJaKwkeli/giphy.gif)
+![Decentralized](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd3eGx6Y3J5dXJhY3Y4N2ZxN3Y0ejN4dDl1Z2V1aDl3OWs0b2dqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6WywJyhXWwZzAI/giphy.gif)
+![Smart Contracts](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJtNnQ3Y2V3c3h4N2l5d2R4Z3I3M3Y3cWt6cHk0eGZ2a2h4b2JmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3U7I8BU7XZ6gvUSrD/giphy.gif)
 ## 🚀 Featured Thesis: Blockchain-backed SSI: Empowering Travelers with a secure platform for digitalized travel
 information  
 
