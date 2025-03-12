@@ -29,7 +29,7 @@
 
 ---
 
-![Thesis](https://media.giphy.com/media/3o7TKzGPlzR9dY2XEk/giphy.gif)  
+![Thesis](https://media.giphy.com/media/QkEzLt2Hti8wkfckQF/giphy.gif)  
 
 ## 🚀 Featured Thesis: Blockchain-backed SSI: Empowering Travelers with a secure platform for digitalized travel
 information  
