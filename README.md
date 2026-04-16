@@ -1,11 +1,11 @@
-# Hi, I'm Sifat Jahan Sajin 👋  
+# Hi, I'm Sifat Jahan Sajin   
 **`MERN Stack Developer | pioneering Self-Sovereign Identity technology `**  
 
 [![Email](https://img.shields.io/badge/Email-sifatsajin88%40gmail.com-red?style=flat&logo=gmail)](mailto:sifatsajin88@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sifat-jahan-sajin-725814310/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sajin-07&color=green)
 
-## 🛠️ Technical Arsenal  
+## Technical Arsenal  
 
 ### **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -34,28 +34,28 @@
   
 </div>
 
-## 🚀 Featured Thesis: Blockchain-backed SSI: Empowering Travelers with a secure platform for digitalized travel
+## Featured Thesis: Blockchain-backed SSI: Empowering Travelers with a secure platform for digitalized travel
 information  
 
 **`Thesis | BRAC University`**  
 *Advised by Prof. Md. Sadek Ferdous*  
 
-🔐 **Implementation Highlights**  
+**Implementation Highlights**  
 - Built a Self-Sovereign Identity (SSI) system using **Hyperledger Indy/ACA-PY**  
 - Secured digital travel credentials (passports/visas) with decentralized storage  
 - Reduced verification time by 40% compared to traditional systems  
 - Tech Stack: ACA-PY, React, Hyperledger Indy, Hyperledger Fabric, REST APIs. 
 
-📌 *"Empowering travelers with privacy-first digital identities"*  
+*"Empowering travelers with privacy-first digital identities"*  
 
 ---
 
-## 🎓 Education  
+## Education  
 **BSc in Computer Science & Engineering**  
 BRAC University   
 ---
 
-## 📬 Let's Connect  
+## Let's Connect  
 [![Gmail](https://img.shields.io/badge/-sifatsajin88%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sifatsajin88@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifat-jahan-sajin-725814310/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](Sajin-07)  
