@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF7F5&width=435&lines=Hi%2C+I'm+Sifat+Jahan+Sajin...;Software+Developer+%7C+System+Builder;AI+%7C+Blockchain+%7C+MERN)](https://git.io/typing-svg)
 
-**`Artificial intelligence | Blockchain | MERN Stack `**  
+**`Artificial Intelligence | Blockchain | MERN Stack `**  
 
 [![Email](https://img.shields.io/badge/Email-sifatsajin88%40gmail.com-red?style=flat&logo=gmail)](mailto:sifatsajin88@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sifat-jahan-sajin-725814310/)
@@ -16,7 +16,7 @@
 class SifatJahanSajin:
     def __init__(self):
         self.name        = "Sifat Jahan Sajin"
-        self.role        = "Software Developer @ DataSoft Systems BD"
+        self.role        = "Software Developer @ DataSoft"
         self.education   = "B.Sc. CSE — BRAC University (2025)"
         self.location    = "Dhaka, Bangladesh"
         self.focus       = ["LLM", "RAG", "Agentic AI",
@@ -193,21 +193,6 @@ me.say_hi()
 </div>
 
 
-## Featured Thesis: Blockchain-backed SSI: Empowering Travelers with a secure platform for digitalized travel
-information  
-
-**`Thesis | BRAC University`**  
-*Advised by Prof. Md. Sadek Ferdous*  
-
-**Implementation Highlights**  
-- Built a Self-Sovereign Identity (SSI) system using **Hyperledger Indy/ACA-PY**  
-- Secured digital travel credentials (passports/visas) with decentralized storage  
-- Reduced verification time by 40% compared to traditional systems  
-- Tech Stack: ACA-PY, React, Hyperledger Indy, Hyperledger Fabric, REST APIs. 
-
-*"Empowering travelers with privacy-first digital identities"*  
-
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
 <p align="center">
@@ -220,14 +205,20 @@ information
 ---
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200">
-<img src="https://imgur.com/A4R8FjE.gif" height="70"/>
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200" style="vertical-align:middle">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=99999&color=FFD700&center=true&vCenter=true&width=300&height=70&lines=EDUCATION" style="vertical-align:middle"/>
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200" style="vertical-align:middle">
 </p>
 
 ## Education  
 **BSc in Computer Science & Engineering**  
 BRAC University   
+
+## Research
+### Blockchain-backed SSI: Empowering Travelers with Secure Digital Identity
+*Supervisor: Prof. Md. Sadek Ferdous, BRAC University*
+
+#### Designed a Self-Sovereign Identity (SSI) system for digitalized travel credentials, enabling travelers to control all verifiable documents on a single privacy-preserving decentralized platform, minimizing data exposure and physical document dependency.
 ---
 
 ## Let's Connect  
@@ -237,7 +228,6 @@ BRAC University
 
 ---
 
-> "Innovation is where blockchain meets real-world problems."
 
 
 <p align="center">
