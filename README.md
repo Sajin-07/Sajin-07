@@ -6,6 +6,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sifat-jahan-sajin-725814310/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sajin-07&color=green)
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--     ABOUT ME SECTION                                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## About Me
 
 <div align="center">
@@ -30,6 +34,11 @@ class SifatJahanSajin:
 me = SifatJahanSajin()
 me.say_hi()
 ```
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--   🚀 TECH ARSENAL SECTION                                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## Tech Arsenal
 
@@ -79,12 +88,18 @@ me.say_hi()
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🏆 GITHUB TROPHIES SECTION                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sajin-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers,PullRequest"/>
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🐍 CONTRIBUTION SNAKE SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 ## Contribution Snake
 
 <picture>
@@ -96,26 +111,41 @@ me.say_hi()
 </picture>
 
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 〰️ LINE GIF                                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="center">
 
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🦜 PARROT GIF                                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<p align="center">
 <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-marshmallow.gif" height="150" width="150">
 <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-maracas.gif" height="150" width="150">
 <img src="https://github.com/seanprashad/slackmoji/raw/master/emoji/parrots/parrot-jedi.gif" height="150" width="150">
-
 <p align="center">
+
+    
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 〰️ LINE GIF                                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🔥 PROJECT TITLE TEXT GIF                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <img src="https://i.ibb.co/QPmHs8r/projects.gif">
-
-## Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- PROJECT 1                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=99999&color=6E40C9&center=true&vCenter=true&width=380&height=40&lines=Multi-Model+Debate+Arena"/>
@@ -132,6 +162,9 @@ me.say_hi()
 </td>
 <td width="50%" valign="top">
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  PROJECT 2                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=99999&color=6E40C9&center=true&vCenter=true&width=380&height=40&lines=Code+Review+Assistant"/>
@@ -150,6 +183,9 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 <br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- PROJECT 3                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
 <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -173,7 +209,9 @@ me.say_hi()
 
 </td>
 <td width="50%" valign="top">
-
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- PROJECT 4                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="120"/>
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=99999&color=6E40C9&center=true&vCenter=true&width=380&height=40&lines=AuraBite+Restaurant+Platform"/>
@@ -192,17 +230,28 @@ me.say_hi()
 </table>
 </div>
 
-
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🐱 CAT AND MOUSE LINE GIF                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
 <p align="center">
-<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 💬 QUOTES GIF                                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
 <p align="center">
 
 ---
+
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 🎓 EDUCATION SECTION                                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200" style="vertical-align:middle">
@@ -220,15 +269,6 @@ BRAC University
 
 #### Designed a Self-Sovereign Identity (SSI) system for digitalized travel credentials, enabling travelers to control all verifiable documents on a single privacy-preserving decentralized platform, minimizing data exposure and physical document dependency.
 ---
-
-## Let's Connect  
-[![Gmail](https://img.shields.io/badge/-sifatsajin88%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sifatsajin88@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifat-jahan-sajin-725814310/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](Sajin-07)  
-
----
-
-
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800"/>
