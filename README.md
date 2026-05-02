@@ -1,5 +1,6 @@
-# Hi, I'm Sifat Jahan Sajin   
-**`MERN Stack Developer | pioneering Self-Sovereign Identity technology `**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF7F5&width=435&lines=Hi%2C+I'm+Sifat+Jahan+Sajin...;Software+Developer+%7C+System+Builder;AI+%7C+Blockchain+%7C+MERN)](https://git.io/typing-svg)
+
+**`Artificial intelligence | Blockchain | MERN Stack `**  
 
 [![Email](https://img.shields.io/badge/Email-sifatsajin88%40gmail.com-red?style=flat&logo=gmail)](mailto:sifatsajin88@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sifat-jahan-sajin-725814310/)
