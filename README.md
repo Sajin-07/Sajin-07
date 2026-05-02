@@ -80,29 +80,6 @@ me.say_hi()
 </div>
 
 
-
-## Technical Arsenal  
-
-### **Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
-
-### **Blockchain & SSI**  
-![Hyperledger Indy](https://img.shields.io/badge/Hyperledger%20Indy-2F3134?logo=hyperledger&logoColor=white)
-![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?logo=hyperledger&logoColor=white)
-![ACA-PY](https://img.shields.io/badge/ACA--PY-000000?logo=python&logoColor=white)
-
-### **Web Development**  
-![MERN Stack](https://img.shields.io/badge/MERN-MongoDB%20|%20Express%20|%20React%20|%20Node.js-47A248)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-
-### **Tools & DevOps**  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E1E?logo=ngrok&logoColor=white)
-
 ## GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sajin-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers,PullRequest"/>
@@ -131,6 +108,90 @@ me.say_hi()
 
 
 <img src="https://i.ibb.co/QPmHs8r/projects.gif">
+
+## Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=99999&color=6E40C9&center=true&vCenter=true&width=380&height=40&lines=Multi-Model+Debate+Arena"/>
+</div>
+
+`FastAPI` `Ollama` `UMAP` `HDBSCAN` `Vector Embeddings`
+
+<p align="justify">Platform orchestrating structured debates between local LLMs with Opinion-Space Topology Tracking - projecting arguments into 3D space to map opinion clustering and convergence. Runs fully offline via Ollama with zero API cost and complete data privacy.</p>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Sajin-07)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=99999&color=6E40C9&center=true&vCenter=true&width=380&height=40&lines=Code+Review+Assistant"/>
+</div>
+
+`LLM` `ChromaDB` `Python`
+
+<p align="justify">Two-pass LLM system that reviews code against pre-defined standards, suggests targeted improvements, and auto-applies accepted changes directly to the codebase. Designed to reduce manual review overhead and enforce consistent code quality across large development teams.</p>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Sajin-07)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<br/>
+<div align="center">
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+<img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+<img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+<img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=99999&color=6E40C9&center=true&vCenter=true&width=380&height=40&lines=Decentralized+Identity+System"/>
+</div>
+<br/>
+
+`ACA-Py` `Hyperledger Indy` `Fabric` `SSI`
+
+<p align="justify">SSI-based passport and visa management system using verifiable credentials for privacy-preserving digital identity. Eliminates physical document dependency via blockchain-backed decentralized authentication across a distributed, trustless network.</p>
+
+<br/>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="120"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=99999&color=6E40C9&center=true&vCenter=true&width=380&height=40&lines=AuraBite+Restaurant+Platform"/>
+</div>
+
+`MongoDB` `Express` `React` `Node.js` `Firebase` `JWT` `SSLCommerz`
+
+<p align="justify">Full-stack restaurant management platform with an AI chatbot, table reservations, Firebase and JWT dual-auth, and integrated SSLCommerz payment gateway for seamless online transactions across the entire ordering workflow.</p>
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://github.com/Sajin-07)
+
+</td>
+</tr>
+</table>
+</div>
+
 
 ## Featured Thesis: Blockchain-backed SSI: Empowering Travelers with a secure platform for digitalized travel
 information  
@@ -176,4 +237,9 @@ BRAC University
 
 ---
 
-> "Innovation is where blockchain meets real-world problems." 
+> "Innovation is where blockchain meets real-world problems."
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800"/>
+<p align="center">
