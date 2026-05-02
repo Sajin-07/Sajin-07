@@ -267,7 +267,29 @@ BRAC University
 ### Blockchain-backed SSI: Empowering Travelers with Secure Digital Identity
 *Supervisor: Prof. Md. Sadek Ferdous, BRAC University*
 
-#### Designed a Self-Sovereign Identity (SSI) system for digitalized travel credentials, enabling travelers to control all verifiable documents on a single privacy-preserving decentralized platform, minimizing data exposure and physical document dependency.
+> Designed a Self-Sovereign Identity (SSI) system for digitalized travel credentials, enabling travelers to control all verifiable documents on a single privacy-preserving decentralized platform, minimizing data exposure and physical document dependency.
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  Fun corner                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100"/>
+
+<br/><br/>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=99999&color=00BFA6&center=true&vCenter=true&width=400&height=70&lines=%F0%9F%8E%B6+Now+Playing" style="vertical-align:middle"/>
+<p align="center">
+  <img src="./eida-nightdriver-card.svg" alt="Now Playing - Eida NightDriver" />
+</p>
+
 ---
 
 <p align="center">
