@@ -155,6 +155,14 @@ information
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko">
 <p align="center">
 
+---
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200">
+<img src="https://imgur.com/A4R8FjE.gif" height="70"/>
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200">
+</p>
+
 ## Education  
 **BSc in Computer Science & Engineering**  
 BRAC University   
