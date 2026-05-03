@@ -157,7 +157,7 @@ me.say_hi()
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Sajin-07)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Sajin-07/Multi-Model-Debate-Arena)
 
 </td>
 <td width="50%" valign="top">
@@ -176,7 +176,7 @@ me.say_hi()
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Sajin-07)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Sajin-07/code-review-with-LLM)
 
 </td>
 </tr>
@@ -223,7 +223,7 @@ me.say_hi()
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://github.com/Sajin-07)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://fir-uni-af3fa.web.app/)
 
 </td>
 </tr>
