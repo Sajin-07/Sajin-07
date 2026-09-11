@@ -94,7 +94,7 @@ me.say_hi()
 
 ## GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sajin-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&title=MultiLanguage,Repositories,Commits,Experience,Stars,Followers,PullRequest"/>
+  <img src="https://github-trophies.vercel.app/?username=Sajin-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&title=MultiLanguage,Repositories,Commits,Followers"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
